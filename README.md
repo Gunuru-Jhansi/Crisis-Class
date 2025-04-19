@@ -29,12 +29,9 @@ A NLP-based Disaster Response Management System built by a team of 5. This appli
 ---
 
 ## 📸 Screenshots
+![Login](https://github.com/user-attachments/assets/6ce83eaa-073d-420f-bf03-1914b7a85aaa)
+![admin1](https://github.com/user-attachments/assets/1cd243f8-2153-4ea4-93a5-096e2c0ae58e)
 
-
-
-
----![Login](https://github.com/user-attachments/assets/e0dd7dc1-9c71-4d69-b2ac-6f230ea35600)
-![admin1](https://github.com/user-attachments/assets/b7a67d6c-ee0f-4bd1-90b3-78471df350de)
-![admin2](https://github.com/user-attachments/assets/3ae1d6a9-8560-4eb2-9eda-c4b8de3d375f)
+![admin2](https://github.com/user-attachments/assets/98c83607-8d0d-4c08-a6cf-30c0ffbe5c0a)
 
 
