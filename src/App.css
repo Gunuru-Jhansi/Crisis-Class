@@ -1,0 +1,72 @@
+ 
+.h-100 {
+    margin-top:100px;
+}  
+
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  color:white;
+  padding: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 20px;
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(180deg, rgb(28, 43, 109), rgb(75, 83, 117));
+  border-radius: 8px;
+}
+
+/* Table Styles */
+.table-container {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: black;
+  font-weight: bold;
+}
+
+.head-div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Responsive: Hide Location Column on Mobile */
+@media (max-width: 600px) {
+  .hide-on-mobile {
+      display: none;
+  }
+}
+
+/* Delete Button */
+.delete-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.delete-btn:hover {
+  background-color: darkred;
+}
